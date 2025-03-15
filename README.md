@@ -118,7 +118,7 @@ This platform encourages social responsibility, community collaboration, and pro
 
 ### Frontend
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/eliusHasan/handsOn.git
    cd frontend
   
 2. Install dependencies:
@@ -133,8 +133,8 @@ This platform encourages social responsibility, community collaboration, and pro
 ### Backend
 1. Clone the repository:
    
-   git clone 
-   cd hands-on-backend
+   git clone https://github.com/eliusHasan/handsOn.git
+   cd backend
    
 2. Install dependencies:
    
