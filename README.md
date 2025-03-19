@@ -134,7 +134,7 @@ This platform encourages social responsibility, community collaboration, and pro
 1. Clone the repository:
    
    git clone 
-   cd hands-on-backend
+   cd backend
    
 2. Install dependencies:
    
